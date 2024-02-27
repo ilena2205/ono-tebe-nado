@@ -238,7 +238,7 @@ body {
     padding: 101px 0px 100px 0px;
     width: auto;
 }
-.about__text { 
+.about__text {
     min-width: 693;
     display: flex;
     flex-direction: column;
@@ -278,7 +278,7 @@ body {
     display: flex;
     gap: 48px;
 }
-.footer__social-icon { 
+.footer__social-icon {
     display: block;
     width: 48px;
     height: 48px;
